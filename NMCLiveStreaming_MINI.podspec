@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "NMCLiveStreaming_MINI"
-  s.version      = "1.0.1"
+  s.version      = "3.0.0"
   s.summary      = "Netease NMCLiveStreaming_MINI Framework"
   s.homepage     = "http://github.com/vcloud163" 
   s.license     = { :type => "MIT", :file => "LICENSE" }
